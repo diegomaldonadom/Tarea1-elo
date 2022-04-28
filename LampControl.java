@@ -11,7 +11,7 @@ public class LampControl {
     public int getChannel(){
         return channel;
     }
-    //???
+    //??
     
     private Cloud cloud;
     private int channel;
